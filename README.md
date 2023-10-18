@@ -3,17 +3,11 @@
 <h2>Clinical Management System using Python Django</h2>
   
   
-   <p>This is a simple Pharmacy Management System programmed using Python Django. The system has 5 types of users are the Administrator, Pharmacist, Doctor, and Receptionist(pharmacyClerk) and Patient.This project has user-friendly functionalities.</p>
+   <p>This is a simple Hospital Management System programmed using Python Django. The system has 5 types of users are the Administrator, Pharmacist, Doctor, and Receptionist(HospitalClerk) and Patient.This project has user-friendly functionalities.</p>
    
    
 
-<div> <img src="https://github.com/Susiniosgit/clinical-management-system/blob/master/screenshot/1.PNG" width="400" height="200" />
-<img src="https://github.com/Susiniosgit/clinical-management-system/blob/master/screenshot/2.PNG" width="400" height="200" />
-</div>
-<div> <img src="https://github.com/Susiniosgit/clinical-management-system/blob/master/screenshot/3.PNG" width="400" height="200" />
-<img src="https://github.com/Susiniosgit/clinical-management-system/blob/master/screenshot/4.PNG" width="400" height="200" />
-    <img src="https://github.com/Susiniosgit/clinical-management-system/blob/master/screenshot/5.png" width="400" height="200" />
-</div>
+
 
 ## How to Install and Run this project?
 
@@ -52,10 +46,8 @@ For Windows
 ```
 $  source venv/scripts/activate
 ```
-**3. Clone this project**
-```
-$  git clone https://github.com/Susiniosgit/clinical-management-system
-```
+
+
 
 Then, Enter the project
 ```
@@ -168,12 +160,9 @@ or Use Default Credentials listed in belows
 - https://stackoverflow.com/questions/46155/how-to-validate-an-email-address-in-javascript
 - https://stackoverflow.com/questions/3429084/why-do-i-get-an-object-is-not-iterable-error
 
-## Demo
 
-https://www.youtube.com/watch?v=Iu6hdwYl_g4
 
-## Authors
-Susinios Legesse - [Github](https://github.com/Susiniosgit)
+
 
 
 
